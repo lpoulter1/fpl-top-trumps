@@ -1,0 +1,11 @@
+.top-trumps{
+  display: flex;
+  flex-direction: column;
+}
+
+.trump-card {
+  flex:1;
+  border-radius: 10px;
+  border: 2px goldenrod solid;
+  padding: 15px;
+}

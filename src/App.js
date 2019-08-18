@@ -1,10 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import TopTrumps from "./TopTrumps/TopTrumps";
 
 function App() {
   return (
-    <div className="App">
-      <h1>React template</h1>
+    <div>
+      <TopTrumps />
     </div>
   );
 }
